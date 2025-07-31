@@ -16,7 +16,8 @@ public class BufferBuilder {
     System.out.println(sb.reverse());
 	// delete () -delete a part of the string based on the index
     System.out.println(sb.delete(0, 5));
-	
+    System.out.println("ttt");
+	//HI 
 	}
 
 }
